@@ -1,0 +1,1 @@
+Olá! Este é um arquivo genérico criado apenas para treinar alguns comandos básicos do git.
